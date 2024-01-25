@@ -3,7 +3,7 @@
 -------
 
 ## Description
-This project was the first challenge project in CodeCademy's Back-End portion of their Full-Stack course. It focuses on the base elements of API creation including CRUD methodology utilizing Express.js.
+This project was the first challenge project in CodeCademy's Back-End portion of their Full-Stack course. It focuses on the base elements of API creation including `CRUD` methodology utilizing Express.js.
 
 Utilizing Get, Put, Post, this app pulls quotes from the ``data.js`` file randomly, by author, or all at once. It also enables users to enter their own quotes which are added to the list of quotes from the file (there is not yet functionality to save those additions).
 
